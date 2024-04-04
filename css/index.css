@@ -1,0 +1,53 @@
+.componentes{
+ 
+    width: 15rem;
+    height: 19rem;
+    display: flex;
+    align-items: last baseline;
+    justify-content: space-between ;
+    border: 2px solid rgb(2, 2, 2);
+  
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    background-color: gainsboro;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+
+    
+}
+.cuadro {
+ 
+    width: 15rem;
+    height: 19rem;
+    display: flex;
+    align-items: first baseline;
+    justify-content: space-between  ;
+    border: 2px solid rgb(2, 2, 2);
+  
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    background-color: gainsboro;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+
+    
+}
+
+.cuadrouno{
+    width: 15rem;
+    height: 19rem;
+    display: flex;
+    align-items: first baseline;
+    justify-content: space-between  ;
+    border: 2px solid rgb(2, 2, 2);
+  
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    background-color: gainsboro;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+   
+}
